@@ -8,5 +8,5 @@ require_once 'paginas/' .$pagina. '.php';
 require_once 'paginas/footer.php';
 
 
-
+<h1>segundo commit</h1>
 ?>
