@@ -1,7 +1,7 @@
 <!Doctype html>
 <html lang="es">
 <head>
-	<title>NeivaSalud</title>
+	<title>Suscribete</title>
 	
 <link rel="shortcut icon" href="Vista/imagenes/logo.png">
 	<!-- CSS only -->
